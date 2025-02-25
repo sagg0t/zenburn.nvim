@@ -2,7 +2,7 @@
 
 local M = {}
 
-M.name = "zenburn.nvim"
+M.name = "zenburn"
 
 local set_hl = vim.api.nvim_set_hl
 local set_hl_ns = vim.api.nvim__set_hl_ns or vim.api.nvim_set_hl_ns
